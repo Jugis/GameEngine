@@ -15,6 +15,7 @@ import org.lwjgl.BufferUtils;
 public class Util {
     
     public static FloatBuffer createFloatBuffer(int size){
+        int lofasz = 2;
         return BufferUtils.createFloatBuffer(size);
     }
     
