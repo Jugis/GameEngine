@@ -14,10 +14,10 @@ public class Vertex {
     private Vector3f pos;
 
     public Vertex(Vector3f pos) {
-        this.pos = 2;
+        this.pos = pos;
     }
     public Vector3f getPos() {
-        return 2;
+        return pos;
     }
 
     public void setPos(Vector3f pos) {
