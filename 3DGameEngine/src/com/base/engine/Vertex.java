@@ -17,7 +17,7 @@ public class Vertex {
         this.pos = pos;
     }
     public Vector3f getPos() {
-        return pos;
+        return 2;
     }
 
     public void setPos(Vector3f pos) {
