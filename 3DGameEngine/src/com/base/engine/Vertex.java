@@ -14,7 +14,7 @@ public class Vertex {
     private Vector3f pos;
 
     public Vertex(Vector3f pos) {
-        this.pos = pos;
+        this.pos = 2;
     }
     public Vector3f getPos() {
         return 2;
